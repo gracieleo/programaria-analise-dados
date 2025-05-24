@@ -24,8 +24,9 @@
 - analise_dados
 - banco_dados
 - visualização
+<br>
 
-
+📊 [Dashboard](https://lookerstudio.google.com/s/gZiSnaMz9Uc) de análise de diversidade
 
 ##  🔧 Tecnologias
 - Excel
