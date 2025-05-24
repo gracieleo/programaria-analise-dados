@@ -1,0 +1,21 @@
+==============================================================================================================================
+Página_Resumo
+. Temos mais pessoas do gênero masculino e de cor branca que responderam ao questionario;
+. Mais da metade dos respondentes moram fora do estado de SP;
+. Independente da etnia o gênero masculino é predominante.
+==============================================================================================================================
+Página_Analise_de_gênero
+. Apesar do percentual de mulheres não ser grande, olhando para pós graduação e doutorado elas continuam buscando conhecimento após 
+  a graduação;
+. Muitas pessoas na área de dados tem algum tipo de formação, sendo na área de dados ou não;
+. Avaliando o nivel de senioridade, em todos eles é predominante a presença do gênero masculino. Sendo que, para cargos de gestão 
+  ve-se uma diferença maior entre as barras podendo concluir que ir para um cargo de lider é mais dificil para uma pessoa de gênero 
+  feminino.
+. A média de salarial também há diferença de aproximandamente R$1000,00 entre os gêneros;
+==============================================================================================================================
+Página_Analise_de_Etnia
+. Maior parte das pessoas participantes da pesquisa, estão concentradas na região sudeste;
+. A categoria outras e indigenas estão media salarial alta, porém, avaliando o nº de pessoas dessas categoria vemos que são muito
+  poucas e não representam uma maioria;
+. No gráfico de etnia x nivel senioridade, ve-se que há uma diminuição de pessoas conforme avançam o nivel de carreira, porém para 
+  as pessoas de cor preta cai mais ou menos pela metade.
