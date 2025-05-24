@@ -1,5 +1,5 @@
 <h1 align="center">
- Análise de Dados: Meus primeiros passos em python
+ Análise de Diversidade 2022 - Curso de Dados da PrograMaria
 </h1>
 
 <p align="center">
@@ -11,7 +11,8 @@
 <p align="justified">
   Análise de dados da pesquisa do Data Hackers, com pessoas da área de dados no ano 2022 explorando 
   aspectos como salários, níveis escolaridade e tecnologias mais utilizadas, com foco 
-  ao debate de diversidade, investigando questões de representatividade de gênero e raça no campo da tecnologia.
+  ao debate de diversidade, investigando questões de representatividade de gênero e raça no campo da tecnologia. Como parte do curso Análise de Dados: Meus primeiros 
+  passos em python, oferecido pela escola PrograMaria.
 </p>
 
 ## 🏗️ Estrutura do projeto
